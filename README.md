@@ -1,4 +1,4 @@
-# Campaigns-Public-Opinion-Financial-Crisis
+# Crisis-Perceptions-Economic-Voting
 
 Raymond M. Duch
 
@@ -11,4 +11,4 @@ This chapter leverages extensive survey data collected during the 2008-2010 peri
 In: Nancy Bermeo and Larry M. Bartels, eds. Mass Politics in Tough Times: Opinion, Votes and Protest in the Great Recession.  Russell Sage Foundation and Oxford University Press. 2013.
 
 This repository contains replication material:
---
+
